@@ -5,8 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         <title>Ghana Communication Technology University (GCTU)</title>
-        
-    </head>
+         </head>
     <style>
         body {
             background-image: url("rp3.jpg");
@@ -36,10 +35,8 @@
             margin-left: 0;
             text-align: center;
             /*background-image: url(mawuli.png);*/
-            opacity: 100%;
-            
+            opacity: 100%; 
         }
-
         .main {
             background-color: aliceblue;
             border-radius: 20px;
@@ -106,8 +103,7 @@
         }
         .social-net {
             margin: 0;
-           display: inline;
-           
+           display: inline;  
         }
         /*
         h1 {
@@ -141,8 +137,7 @@
         }
         .footer a:hover {
             color: rgb(202, 202, 202);
-            font-weight:bolder;
-            
+            font-weight:bolder; 
         }
         .emoji-o {
             color: rgb(255, 0, 0);
@@ -162,7 +157,6 @@
         float: right;
         background-color: transparent;
         padding: 7px;
-    
         }
         ul {
             list-style-type: none;
@@ -178,7 +172,6 @@
             padding-top: 0;
             border-radius: 5px;
             color:rgb(60, 201, 211)
-    
         }
         /*li:last-child {
             border-right: none;            
@@ -220,11 +213,9 @@
                 <button class="btn btn-outline-white" type="submit" style="background-color: #000;"><span class="fa fa-search"></span></button>
             </form>
         </div>
-       
         <div class="welcome" >
         <br>
-            <h2 style=" font-weight: bolder; font-size: xx-large; color: black;"><strong>꧁༺ա ɛ ʟ ƈ <div class="emoji-o">🅾</div> ʍ ɛ༻꧂</strong></h2>
-            
+            <h2 style=" font-weight: bolder; font-size: xx-large; color: black;"><strong>꧁༺ա ɛ ʟ ƈ <div class="emoji-o">🅾</div> ʍ ɛ༻꧂</strong></h2> 
             <br>
             <div class="main">
                 <div class="col-lg-6">
@@ -234,16 +225,12 @@
                         <h3 style="display: inline; font-family: monotype corsiva; font-size: larger; color: orange;">...Head Heart Hand</h3></h1>
                     </div>
                 </div>  
-
                 <div class="SIP">
                     <h2>Student Information Portal <br>(SIP) <br><br> Sign In</h2>
-            
                     <form class="form" action="https://site.gctu.edu.gh" method="get">
                         <input type="text" placeholder="Student ID" class="user" required >
                         <input type="password" placeholder="Password" class="pass" required>
-            
-                        <button>SIGN IN</button>
-                
+                   <button>SIGN IN</button>
                     </form>
                     <br><br>
                     <span class="">
@@ -254,8 +241,6 @@
             </div><br>
             <div class=" col-lg-6 " style="background-color: goldenrod;">...GCTU</div>
             <div class=" col-lg-6 " style="background-color: rgb(0, 55, 255);">Knowledge comes from learning</div>
-            
-            
             <footer class="footer">
                 <a href="www.eben.com">  Home  </a>
                 <a href="www.eben.com">  Learning platform   </a>
@@ -263,7 +248,6 @@
                 <a href="www.eben.com">  News </a>
                 <br><br>
                 <div class="col-lg-6 bg1" >Follow Us</div>
-                
                 <br>
                 <div class="social-net">
                 <a href="https://web.facebook.com/gctu"><img src="transfb.png" alt="facebook" width="40" height="40" style="border-radius: 50%; margin: 5px; background-color: hwb(241 0% 0%);"></a>
@@ -281,11 +265,9 @@
                 <a href="www.eben.com">  Privacy Policy |   </a>
                 <a href="www.eben.com">  Help </a>
                 <br>
-                
                 <a>All Rights Reserved.</a>
                  <br><br>
             </footer> 
-         
         </div> 
     </body>
 </html>
